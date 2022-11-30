@@ -1,10 +1,12 @@
-Hi 👋 My name is Sameer Faisal
+Hi <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage" alt="👋"> My name is Sameer Faisal
 ==============================
 
 Web Designer and Developer
 --------------------------
 
-Since beginning my journey as a freelance designer nearby 3 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products.
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
+
+Since beginning my journey as a freelance designer 3 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products.
 
 * 🌍  I'm based in Lahore, Pakistan
 * 🖥️  See my portfolio at [imrtls00's Portfolio](http://imrtls00.xyz)
