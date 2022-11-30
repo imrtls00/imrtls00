@@ -4,12 +4,12 @@ Hi 👋 My name is Sameer Faisal
 Web Designer and Developer
 --------------------------
 
-Since beginning my journey as a freelance designer nearby 2 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products.
+Since beginning my journey as a freelance designer nearby 3 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products.
 
 * 🌍  I'm based in Lahore, Pakistan
 * 🖥️  See my portfolio at [imrtls00's Portfolio](http://imrtls00.xyz)
 * ✉️  You can contact me at [imrtls00@gmail.com](mailto:imrtls00@gmail.com)
-* 🚀  I'm currently working on [BK Wholesaler](http://bkwholesaler.com)
+* 🚀  I'm currently working on [BuyingFests](http://buyingfests.com)
 * 🧠  I'm learning After Effects & JavaScript
 * 🤝  I'm open to collaborating on Web Design & Frontend Projects
 * ⚡  Just another Tech Enthusiast!
